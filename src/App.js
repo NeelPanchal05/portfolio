@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import "./Styles.css";
 
 const Portfolio = () => {
-  // Add state for mobile menu
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   return (
